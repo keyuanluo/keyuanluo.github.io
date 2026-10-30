@@ -39,6 +39,12 @@ links:
   - icon: brands/github
     url: https://github.com/keyuanluo
     label: GitHub
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0006-5265-784X
+    label: ORCID
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/keyuan-luo-51106b258/
+    label: LinkedIn
 
 interests:
   - Long-horizon robot learning and memory
