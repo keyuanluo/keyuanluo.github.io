@@ -2,6 +2,9 @@ main:
   - name: About
     url: '/#about'
     weight: 10
+  - name: Papers
+    url: '/#papers'
+    weight: 15
   - name: Research
     url: '/#research'
     weight: 20
