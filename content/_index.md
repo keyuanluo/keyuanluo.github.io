@@ -8,7 +8,10 @@ sections:
     id: about
     content:
       username: me
-      text: ''
+      text: |-
+        I am a PhD student at the Technical University of Munich, advised by [Prof. Ziyue Li](https://bonaldli.github.io/), and a lecturer at Hainan Bielefeld University of Applied Sciences.
+
+        My research focuses on **robot learning**, especially **memory evaluation in vision-language-action (VLA) systems** and **long-horizon decision-making**. I also study multimodal policy adaptation. Previously, I worked on pedestrian crossing intention prediction at Technische Universität Berlin.
       button:
         text: Email
         url: 'mailto:luokeyuanstu@163.com'
@@ -17,6 +20,8 @@ sections:
         education: Education
         interests: Research Interests
     design:
+      spacing:
+        padding: ['0', '0', '0', '0']
       background:
         gradient_mesh:
           enable: true
@@ -40,7 +45,7 @@ sections:
 
         **Keyuan Luo**, Yi Xie, Wanyun Ling, Yuanzhe Li, Ziyue Li, Zhuoqi Zeng.
 
-        *arXiv preprint, 2026* · [PDF](https://arxiv.org/pdf/2610.23372)
+        *arXiv preprint, 2026* · [PDF](https://arxiv.org/pdf/2610.23372) · [Research overview](/#research)
 
         ---
 
@@ -63,13 +68,37 @@ sections:
   - block: markdown
     id: research
     content:
-      title: Selected Research
+      title: Featured Research
       subtitle: ''
       text: |-
-        ### Memory for Long-Horizon Robot Learning
+        ### IMEP and ChainBench
 
-        I study how vision-language-action (VLA) systems can retain, update, and reuse information over extended interactions. My research connects memory mechanisms with evaluation, with an emphasis on how past experience influences an agent's decisions and task performance.
+        **When a robot's memory changes its behavior, is it actually using the stored facts?**
 
+        ![IMEP overview: four evaluation questions and experiments with within-episode, cross-episode, and agentic memory](imep-overview.png)
+
+        *Figure 1 from the preprint. All experiments use simulated robotic environments; interpretation details are given in the paper.*
+
+        **Approach.** IMEP compares changes to task-relevant facts with control interventions, separating decision accuracy from motor execution. ChainBench is a LIBERO-based benchmark that requires information from earlier episodes.
+
+        **Main finding.** The evaluated learned memory banks showed behavioral sensitivity without established fact-specific memory use. In the 202-chain ChainBench study, full memory achieved 74.3% task success versus 39.1% without memory, using shared recorded executions. These results apply to the tested configurations.
+
+        **My contribution.** I led study design, implementation, experiments, analysis, and manuscript drafting. Coauthor support included overall research guidance from Ziyue Li, manuscript refinement from Yi Xie, and overview-figure refinement from Wanyun Ling.
+
+        [Paper](https://arxiv.org/abs/2610.23372) · [PDF](https://arxiv.org/pdf/2610.23372) · [Full-size figure](https://arxiv.org/html/2610.23372v1/figure1_fourq_c.png)
+
+        *Code is not yet publicly available.*
+    design:
+      columns: '1'
+      spacing:
+        padding: ['48px', '0', '48px', '0']
+
+  - block: markdown
+    id: other-research
+    content:
+      title: Other Research
+      subtitle: ''
+      text: |-
         ### Multimodal Adaptation of Robotic Policies
 
         As team lead for an AgiBot World Challenge 2026 project, I worked on adapting a pretrained pi0.5-LIBERO policy to the competition's robotic tasks. The project explored LoRA-based adaptation with depth information and iterative evaluation in Genie Sim 3.0.
