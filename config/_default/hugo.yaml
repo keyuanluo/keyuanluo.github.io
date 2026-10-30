@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://keyuanluo.github.io/'
 
 ############################
 ## LANGUAGE
@@ -40,7 +40,14 @@ pagination:
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+# Exclude bundled demo content until it is replaced with real work.
+ignoreFiles:
+  - '.ipynb_checkpoints$'
+  - '\.Rmd$'
+  - '\.Rmarkdown$'
+  - '_cache$'
+  - '[/\\]content[/\\](blog|courses|events|projects|publications|slides)([/\\]|$)'
+  - '[/\\]content[/\\]experience\.md$'
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
