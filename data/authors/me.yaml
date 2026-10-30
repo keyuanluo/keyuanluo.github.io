@@ -30,6 +30,12 @@ affiliations:
     url: https://www.hainan-biuh.edu.cn/en/about-biuh/
 
 links:
+  - icon: hero/envelope
+    url: mailto:luokeyuanstu@163.com
+    label: Email
+  - icon: academicons/google-scholar
+    url: 'https://scholar.google.com/citations?user=n-qWn-QAAAAJ&hl=zh-CN'
+    label: Google Scholar
   - icon: brands/github
     url: https://github.com/keyuanluo
     label: GitHub
