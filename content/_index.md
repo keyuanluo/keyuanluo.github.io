@@ -125,11 +125,22 @@ sections:
       text: |-
         I am a lecturer at Hainan Bielefeld University of Applied Sciences. My teaching covers robotics, introductory artificial intelligence, deep learning, Python, and C++. I also mentor students in robot-learning research.
 
-        ### Robotics Laboratory
+    design:
+      columns: '1'
+
+  - block: markdown
+    id: robotics-laboratory
+    content:
+      title: Robotics Laboratory
+      subtitle: 'Hainan Bielefeld University of Applied Sciences'
+      text: |-
+        Explore the laboratory's humanoid platforms, mobile robots, vehicle platforms, and working environment.
 
         ![Robotic platforms at Hainan Bielefeld University of Applied Sciences](lab-platforms.jpg)
 
         *Robotic platforms at Hainan Bielefeld University of Applied Sciences.*
+
+        **[Explore the laboratory →](/lab/)**
     design:
       columns: '1'
 
