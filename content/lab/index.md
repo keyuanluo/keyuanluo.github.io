@@ -3,7 +3,7 @@ title: 'Robotics Laboratory'
 summary: 'Robotic platforms, laboratory facilities, and the working environment at Hainan Bielefeld University of Applied Sciences.'
 type: page
 date: 2026-10-31
-draft: true
+draft: false
 toc: true
 share: false
 commentable: false
