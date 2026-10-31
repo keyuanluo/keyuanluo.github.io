@@ -4,7 +4,7 @@ subtitle: 'AgiBot World Challenge 2026 project'
 summary: 'Multimodal policy adaptation with LoRA, depth conditioning, and coarse-to-fine action generation.'
 type: page
 date: 2026-10-31
-draft: true
+draft: false
 toc: true
 share: false
 commentable: false
