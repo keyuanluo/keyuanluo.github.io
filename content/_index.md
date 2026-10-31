@@ -103,6 +103,8 @@ sections:
 
         As team lead for an AgiBot World Challenge 2026 project, I worked on adapting a pretrained pi0.5-LIBERO policy to the competition's robotic tasks. The project explored LoRA-based adaptation with depth information and iterative evaluation in Genie Sim 3.0.
 
+        **Competition result: Tenth Place — Team BIUH_TUM.** [View certificate](/research/agibot/#competition-result)
+
         ![Depth-augmented ACoT-VLA inference architecture](https://keyuanluo.github.io/research/agibot/architecture.png)
 
         *Depth-augmented ACoT-VLA: visual-language context, depth conditioning, and coarse-to-fine action generation.*
