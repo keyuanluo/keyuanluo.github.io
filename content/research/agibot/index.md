@@ -14,7 +14,7 @@ image:
   preview_only: false
 ---
 
-[Back to research](/#other-research) · [Architecture PDF](architecture.pdf) · [Full-resolution diagram](architecture.png)
+[Back to research](/#other-research) · [Architecture PDF](architecture.pdf) · [Full-resolution diagram](architecture.png) · [Competition result](#competition-result)
 
 ## Project overview
 
@@ -29,6 +29,19 @@ The architecture shown here describes **Depth-augmented ACoT-VLA**: a visual-lan
 3. **Coarse-to-fine actions.** The coarse Gemma expert produces an initial trajectory. The fine stream combines this trajectory with context-derived reasoning features and generates an action chunk. Both action streams receive depth information through separate projections and gated fusion.
 
 **Where adaptation happens.** LoRA is applied in the main LLM; depth is fused into the action-expert inputs. The diagram omits separate noisy-action inputs, time conditioning, and iterative flow-matching updates for clarity.
+
+## Competition result
+
+**Tenth Place - AGIBOT WORLD CHALLENGE 2026, RoboChallenge ICRA Competition (ICRA 2026).**
+
+**Team:** BIUH_TUM  
+**Team members:** Keyuan Luo, Jinming Wang, Ruiheng Zhang.
+
+![Certificate awarding Tenth Place to team BIUH_TUM in the AGIBOT WORLD CHALLENGE 2026 RoboChallenge ICRA Competition](competition-certificate.jpg)
+
+*Competition certificate for team BIUH_TUM, June 2026.*
+
+[View full-size certificate](competition-certificate.jpg)
 
 ## Event photograph
 
