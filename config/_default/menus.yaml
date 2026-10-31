@@ -11,6 +11,9 @@ main:
   - name: Teaching
     url: '/#teaching'
     weight: 30
+  - name: Lab
+    url: '/lab/'
+    weight: 35
   - name: Contact
     url: '/#contact'
     weight: 40
