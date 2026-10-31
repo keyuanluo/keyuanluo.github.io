@@ -75,7 +75,7 @@ sections:
 
         **When a robot's memory changes its behavior, is it actually using the stored facts?**
 
-        ![IMEP overview: four evaluation questions and experiments with within-episode, cross-episode, and agentic memory](imep-overview.png)
+        <a href="/media/imep-overview.pdf" aria-label="View the original IMEP overview figure as a PDF"><img src="/media/imep-overview-hd.png" alt="IMEP overview: four evaluation questions and experiments with within-episode, cross-episode, and agentic memory" width="3200" height="1892" loading="lazy" decoding="async" style="width:100%;height:auto;"></a>
 
         *Figure 1 from the preprint. All experiments use simulated robotic environments; interpretation details are given in the paper.*
 
@@ -85,7 +85,7 @@ sections:
 
         **My contribution.** I led study design, implementation, experiments, analysis, and manuscript drafting. Coauthor support included overall research guidance from Ziyue Li, manuscript refinement from Yi Xie, and overview-figure refinement from Wanyun Ling.
 
-        [Paper](https://arxiv.org/abs/2610.23372) · [PDF](https://arxiv.org/pdf/2610.23372) · [Full-size figure](https://arxiv.org/html/2610.23372v1/figure1_fourq_c.png)
+        [Paper](https://arxiv.org/abs/2610.23372) · [PDF](https://arxiv.org/pdf/2610.23372) · [High-resolution figure](/media/imep-overview-hd.png) · [Original figure PDF](/media/imep-overview.pdf)
 
         *Code is not yet publicly available.*
     design:
