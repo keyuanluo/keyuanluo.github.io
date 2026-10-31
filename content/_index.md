@@ -103,6 +103,10 @@ sections:
 
         As team lead for an AgiBot World Challenge 2026 project, I worked on adapting a pretrained pi0.5-LIBERO policy to the competition's robotic tasks. The project explored LoRA-based adaptation with depth information and iterative evaluation in Genie Sim 3.0.
 
+        ![Robot manipulation demonstration at an AgiBot event](agibot-demo.png)
+
+        *Robot manipulation demonstration at an AgiBot event.*
+
         ### PCIT: Pedestrian Crossing Intention Prediction
 
         *Master's thesis, Technische Universität Berlin*
@@ -118,6 +122,12 @@ sections:
       subtitle: ''
       text: |-
         I am a lecturer at Hainan Bielefeld University of Applied Sciences. My teaching covers robotics, introductory artificial intelligence, deep learning, Python, and C++. I also mentor students in robot-learning research.
+
+        ### Robotics Laboratory
+
+        ![Robotic platforms at Hainan Bielefeld University of Applied Sciences](lab-platforms.jpg)
+
+        *Robotic platforms at Hainan Bielefeld University of Applied Sciences.*
     design:
       columns: '1'
 
