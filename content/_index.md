@@ -99,23 +99,35 @@ sections:
       title: Other Research
       subtitle: ''
       text: |-
-        ### Multimodal Adaptation of Robotic Policies
-
-        As team lead for an AgiBot World Challenge 2026 project, I worked on adapting a pretrained pi0.5-LIBERO policy to the competition's robotic tasks. The project explored LoRA-based adaptation with depth information and iterative evaluation in Genie Sim 3.0.
-
-        **Competition result: Tenth Place — Team BIUH_TUM.** [View certificate](/research/agibot/#competition-result)
-
-        ![Depth-augmented ACoT-VLA inference architecture](https://keyuanluo.github.io/research/agibot/architecture.png)
-
-        *Depth-augmented ACoT-VLA: visual-language context, depth conditioning, and coarse-to-fine action generation.*
-
-        **[Project page](/research/agibot/)** · [Architecture PDF](/research/agibot/architecture.pdf)
-
         ### PCIT: Pedestrian Crossing Intention Prediction
 
         *Master's thesis, Technische Universität Berlin*
 
         My master's research investigated multimodal pedestrian crossing intention prediction using a cross-modal Transformer and uncertainty-based loss weighting for multi-task learning. The approach was evaluated on the JAAD and PIE datasets.
+    design:
+      columns: '1'
+
+  - block: markdown
+    id: competitions
+    content:
+      title: Robotics Competitions
+      subtitle: ''
+      text: |-
+        ### AgiBot World Challenge 2026
+
+        **Depth-augmented ACoT-VLA**
+
+        **Role:** Team Lead · **Team:** BIUH_TUM · **Result:** Tenth Place
+
+        *RoboChallenge ICRA Competition, ICRA 2026*
+
+        I worked on adapting a pretrained pi0.5-LIBERO policy to the competition's robotic tasks. The project explored LoRA-based adaptation with depth information and iterative evaluation in Genie Sim 3.0.
+
+        ![Depth-augmented ACoT-VLA inference architecture](https://keyuanluo.github.io/research/agibot/architecture.png)
+
+        *Visual-language context, depth conditioning, and coarse-to-fine action generation.*
+
+        **[Project details](/research/agibot/)** · [Architecture PDF](/research/agibot/architecture.pdf) · [View certificate](/research/agibot/#competition-result)
     design:
       columns: '1'
 
