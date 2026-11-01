@@ -14,7 +14,7 @@ image:
   preview_only: false
 ---
 
-[Back to research](/#other-research) · [Architecture PDF](architecture.pdf) · [Full-resolution diagram](architecture.png) · [Competition result](#competition-result)
+[Back to competitions](/#competitions) · [Architecture PDF](architecture.pdf) · [Full-resolution diagram](architecture.png) · [Competition result](#competition-result)
 
 ## Project overview
 
