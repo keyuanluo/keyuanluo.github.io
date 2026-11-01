@@ -8,6 +8,9 @@ main:
   - name: Research
     url: '/#research'
     weight: 20
+  - name: Competitions
+    url: '/#competitions'
+    weight: 25
   - name: Teaching
     url: '/#teaching'
     weight: 30
