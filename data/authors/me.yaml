@@ -47,10 +47,10 @@ links:
     label: LinkedIn
 
 interests:
-  - Long-horizon robot learning and memory
-  - Vision-language-action models
-  - Multimodal policy adaptation
-  - Evaluation of memory in embodied agents
+  - Mobile Manipulation
+  - Vision-Language-Action (VLA) Models
+  - World Models and World Action Models (WAMs)
+  - Memory and Agentic Planning in VLA Systems
 
 education:
   - degree: Doctoral Studies (ongoing)
