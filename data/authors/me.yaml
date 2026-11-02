@@ -14,9 +14,14 @@ name:
 role: PhD Student in Robot Learning
 
 bio: |
-  I am a PhD student at the Technical University of Munich (TUM), advised by Prof. Ziyue Li, and a lecturer at Hainan Bielefeld University of Applied Sciences. I received my M.Sc. from Technische Universität Berlin, where I worked on multimodal pedestrian crossing intention prediction.
-
-  My research focuses on robot learning for long-horizon tasks, particularly memory in vision-language-action (VLA) systems. I investigate when memory helps robot decision-making and how to test whether policies rely on the task-relevant information stored in it. I also study multimodal adaptation of pretrained robot policies. My broader interests include mobile manipulation, world models, and agentic planning.
+  I am a PhD student at the Technical University of Munich, advised by Prof. Ziyue Li,
+  and a lecturer at Hainan Bielefeld University of Applied Sciences. My research focuses
+  on robot learning, particularly memory-augmented vision-language-action (VLA) models
+  for long-horizon tasks. I study how robots can retain and reuse experience over time,
+  and how to evaluate the role of memory in decision-making. I also investigate
+  multimodal adaptation of pretrained robotic policies. Previously, my master's
+  research at Technische Universität Berlin explored cross-modal transformers for
+  pedestrian crossing intention prediction.
 
 affiliations:
   - name: Technical University of Munich
