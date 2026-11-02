@@ -127,7 +127,7 @@ sections:
 
         *Visual-language context, depth conditioning, and coarse-to-fine action generation.*
 
-        **[Project details](/research/agibot/)** · [Architecture PDF](/research/agibot/architecture.pdf) · [View certificate](/research/agibot/#competition-result)
+        **[Watch 5 task demos](/research/agibot/#task-demonstrations)** · [Project details](/research/agibot/) · [Architecture PDF](/research/agibot/architecture.pdf) · [View certificate](/research/agibot/#competition-result)
     design:
       columns: '1'
 
