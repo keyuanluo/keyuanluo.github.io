@@ -1,6 +1,6 @@
 ---
 title: ''
-summary: 'Keyuan Luo — robot learning, memory-augmented vision-language-action models, and multimodal perception.'
+summary: 'Keyuan Luo — robot learning, memory in vision-language-action systems, and long-horizon decision-making.'
 type: landing
 
 sections:
@@ -9,9 +9,9 @@ sections:
     content:
       username: me
       text: |-
-        I am a PhD student at the Technical University of Munich, advised by [Prof. Ziyue Li](https://bonaldli.github.io/), and a lecturer at Hainan Bielefeld University of Applied Sciences.
+        I am a PhD student at the Technical University of Munich (TUM), advised by [Prof. Ziyue Li](https://bonaldli.github.io/), and a lecturer at Hainan Bielefeld University of Applied Sciences. I received my M.Sc. from Technische Universität Berlin, where I worked on multimodal pedestrian crossing intention prediction.
 
-        My research focuses on **robot learning**, especially **memory evaluation in vision-language-action (VLA) systems** and **long-horizon decision-making**. I also study multimodal policy adaptation. Previously, I worked on pedestrian crossing intention prediction at Technische Universität Berlin.
+        My research focuses on **robot learning for long-horizon tasks**, particularly **memory in vision-language-action (VLA) systems**. I investigate when memory helps robot decision-making and how to test whether policies rely on the task-relevant information stored in it. I also study multimodal adaptation of pretrained robot policies. My broader interests include mobile manipulation, world models, and agentic planning.
       button:
         text: Download CV
         url: '/uploads/Keyuan_Luo_Academic_CV.pdf'

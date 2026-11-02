@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "Keyuan Luo researches robot learning, memory-augmented vision-language-action models, and multimodal perception."
+    description: "Keyuan Luo researches robot learning, memory in vision-language-action systems, and long-horizon decision-making."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)
