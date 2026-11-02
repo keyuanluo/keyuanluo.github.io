@@ -39,21 +39,21 @@ Selected simulation recordings of five AgiBot competition tasks, with synchroniz
 <div class="agibot-task-grid">
   <figure class="agibot-task-card" id="demo-hold-pot">
     <h3 id="title-hold-pot">Bimanual Pot Handling</h3>
-    <p class="agibot-task-meta">50 s · Task evaluation passed</p>
-    <video controls playsinline preload="none" width="1280" height="1200" poster="/media/agibot/tasks/hold-pot.jpg" aria-labelledby="title-hold-pot" aria-describedby="caption-hold-pot">
-      <source src="/media/agibot/tasks/hold-pot.mp4" type="video/mp4">
-      <a href="/media/agibot/tasks/hold-pot.mp4">Open the pot-handling video.</a>
+    <p class="agibot-task-meta">40 s · Task evaluation passed</p>
+    <video controls playsinline preload="none" width="1280" height="1200" poster="/media/agibot/tasks/hold-pot.jpg?v=trim-10-end" aria-labelledby="title-hold-pot" aria-describedby="caption-hold-pot">
+      <source src="/media/agibot/tasks/hold-pot.mp4?v=trim-10-end" type="video/mp4">
+      <a href="/media/agibot/tasks/hold-pot.mp4?v=trim-10-end">Open the pot-handling video.</a>
     </video>
-    <figcaption id="caption-hold-pot">Coordinating both hands to grasp and lift a pot.<br><a href="/media/agibot/tasks/hold-pot.mp4" aria-label="Open pot-handling video as MP4">Open MP4</a></figcaption>
+    <figcaption id="caption-hold-pot">Coordinating both hands to grasp and lift a pot.<br><a href="/media/agibot/tasks/hold-pot.mp4?v=trim-10-end" aria-label="Open pot-handling video as MP4">Open MP4</a></figcaption>
   </figure>
   <figure class="agibot-task-card" id="demo-open-door">
     <h3 id="title-open-door">Door Opening</h3>
-    <p class="agibot-task-meta">27 s · Task evaluation passed</p>
-    <video controls playsinline preload="none" width="1280" height="1200" poster="/media/agibot/tasks/open-door.jpg" aria-labelledby="title-open-door" aria-describedby="caption-open-door">
-      <source src="/media/agibot/tasks/open-door.mp4" type="video/mp4">
-      <a href="/media/agibot/tasks/open-door.mp4">Open the door-opening video.</a>
+    <p class="agibot-task-meta">13 s · Task evaluation passed</p>
+    <video controls playsinline preload="none" width="1280" height="1200" poster="/media/agibot/tasks/open-door.jpg?v=trim-0-13" aria-labelledby="title-open-door" aria-describedby="caption-open-door">
+      <source src="/media/agibot/tasks/open-door.mp4?v=trim-0-13" type="video/mp4">
+      <a href="/media/agibot/tasks/open-door.mp4?v=trim-0-13">Open the door-opening video.</a>
     </video>
-    <figcaption id="caption-open-door">Manipulating the handle and opening the door.<br><a href="/media/agibot/tasks/open-door.mp4" aria-label="Open door-opening video as MP4">Open MP4</a></figcaption>
+    <figcaption id="caption-open-door">Manipulating the handle and opening the door.<br><a href="/media/agibot/tasks/open-door.mp4?v=trim-0-13" aria-label="Open door-opening video as MP4">Open MP4</a></figcaption>
   </figure>
   <figure class="agibot-task-card" id="demo-pour-workpiece">
     <h3 id="title-pour-workpiece">Workpiece Pouring</h3>
@@ -75,16 +75,16 @@ Selected simulation recordings of five AgiBot competition tasks, with synchroniz
   </figure>
   <figure class="agibot-task-card" id="demo-scoop-popcorn">
     <h3 id="title-scoop-popcorn">Scooping Popcorn</h3>
-    <p class="agibot-task-meta">53 s · Visually verified</p>
-    <video controls playsinline preload="none" width="1280" height="1328" poster="/media/agibot/tasks/scoop-popcorn.jpg" aria-labelledby="title-scoop-popcorn" aria-describedby="caption-scoop-popcorn">
-      <source src="/media/agibot/tasks/scoop-popcorn.mp4" type="video/mp4">
-      <a href="/media/agibot/tasks/scoop-popcorn.mp4">Open the popcorn-scooping video.</a>
+    <p class="agibot-task-meta">11 s · Visually verified</p>
+    <video controls playsinline preload="none" width="1280" height="1328" poster="/media/agibot/tasks/scoop-popcorn.jpg?v=trim-9-20" aria-labelledby="title-scoop-popcorn" aria-describedby="caption-scoop-popcorn">
+      <source src="/media/agibot/tasks/scoop-popcorn.mp4?v=trim-9-20" type="video/mp4">
+      <a href="/media/agibot/tasks/scoop-popcorn.mp4?v=trim-9-20">Open the popcorn-scooping video.</a>
     </video>
-    <figcaption id="caption-scoop-popcorn">Scooping popcorn and transferring it into a container.<br><a href="/media/agibot/tasks/scoop-popcorn.mp4" aria-label="Open popcorn-scooping video as MP4">Open MP4</a></figcaption>
+    <figcaption id="caption-scoop-popcorn">Scooping popcorn and transferring it into a container.<br><a href="/media/agibot/tasks/scoop-popcorn.mp4?v=trim-9-20" aria-label="Open popcorn-scooping video as MP4">Open MP4</a></figcaption>
   </figure>
 </div>
 
-The accompanying run records report successful task evaluations for the first four demonstrations. The popcorn demonstration was verified visually; a valid automated evaluation result was unavailable. These are selected individual runs, not aggregate success-rate measurements.
+The accompanying run records report successful task evaluations for the first four demonstrations. The popcorn demonstration was verified visually; a valid automated evaluation result was unavailable. Evaluation notes refer to the full source runs; some clips have been shortened for presentation. These are selected individual runs, not aggregate success-rate measurements.
 
 ## How the architecture works
 
