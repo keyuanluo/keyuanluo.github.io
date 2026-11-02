@@ -150,7 +150,7 @@ sections:
       text: |-
         Explore the laboratory's humanoid platforms, mobile robots, vehicle platforms, and working environment.
 
-        ![Robotic platforms at Hainan Bielefeld University of Applied Sciences](lab-platforms.jpg)
+        <a href="/lab/overview.jpg" aria-label="Open the full-resolution laboratory photograph"><img src="/lab/overview.jpg" alt="Robotic platforms at Hainan Bielefeld University of Applied Sciences" width="1440" height="1080" loading="lazy" decoding="async" style="width:100%;height:auto;"></a>
 
         *Robotic platforms at Hainan Bielefeld University of Applied Sciences.*
 

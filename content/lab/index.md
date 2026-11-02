@@ -21,13 +21,13 @@ A look at the robotic platforms and working environment at **Hainan Bielefeld Un
 
 The laboratory environment includes humanoid platforms and wheeled robots of different scales. The photographs below show the platforms and workspace.
 
-![Overview of robotic platforms at Hainan Bielefeld University of Applied Sciences](overview.jpg)
+<a href="overview.jpg" aria-label="Open the full-resolution photograph of laboratory platforms"><img src="overview.jpg" alt="Overview of robotic platforms at Hainan Bielefeld University of Applied Sciences" width="1440" height="1080" loading="lazy" decoding="async" style="width:100%;height:auto;"></a>
 
 *A view of the laboratory's humanoid and wheeled robotic platforms.*
 
 ## Humanoid platforms
 
-![Two humanoid robots on support frames in the laboratory](humanoid-platforms.jpg)
+<a href="humanoid-platforms.jpg" aria-label="Open the full-resolution photograph of humanoid platforms"><img src="humanoid-platforms.jpg" alt="Two humanoid robots on support frames in the laboratory" width="1920" height="1080" loading="lazy" decoding="async" style="width:100%;height:auto;"></a>
 
 *Humanoid robots on support frames, alongside laboratory workbenches.*
 
@@ -46,7 +46,7 @@ The laboratory environment includes humanoid platforms and wheeled robots of dif
 
 ## Working environment
 
-![Shared workspace with desks and computers](workspace.jpg)
+<a href="workspace.jpg" aria-label="Open the full-resolution photograph of the shared workspace"><img src="workspace.jpg" alt="Shared workspace with desks and computers" width="1280" height="807" loading="lazy" decoding="async" style="width:100%;height:auto;"></a>
 
 *A shared workspace at Hainan Bielefeld University of Applied Sciences.*
 

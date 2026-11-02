@@ -11,8 +11,10 @@ commentable: false
 image:
   filename: architecture.png
   alt_text: 'Depth-augmented ACoT-VLA inference architecture'
-  preview_only: false
+  preview_only: true
 ---
+
+<a href="architecture.pdf" aria-label="Open the original vector architecture diagram as a PDF"><img src="architecture.png" alt="Depth-augmented ACoT-VLA inference architecture" width="2400" height="1071" fetchpriority="high" decoding="async" style="width:100%;height:auto;"></a>
 
 [Back to competitions](/#competitions) · [Task videos](#task-demonstrations) · [Architecture PDF](architecture.pdf) · [Full-resolution diagram](architecture.png) · [Competition result](#competition-result)
 
@@ -101,7 +103,7 @@ The accompanying run records report successful task evaluations for the first fo
 **Team:** BIUH_TUM  
 **Team members:** Keyuan Luo, Jinming Wang, Ruiheng Zhang.
 
-![Certificate awarding Tenth Place to team BIUH_TUM in the AGIBOT WORLD CHALLENGE 2026 RoboChallenge ICRA Competition](competition-certificate.jpg)
+<a href="competition-certificate.jpg" aria-label="Open the full-resolution competition certificate"><img src="competition-certificate.jpg" alt="Certificate awarding Tenth Place to team BIUH_TUM in the AGIBOT WORLD CHALLENGE 2026 RoboChallenge ICRA Competition" width="1795" height="1280" loading="lazy" decoding="async" style="width:100%;height:auto;"></a>
 
 *Competition certificate for team BIUH_TUM, June 2026.*
 
@@ -109,7 +111,7 @@ The accompanying run records report successful task evaluations for the first fo
 
 ## Event photograph
 
-![Robot manipulation demonstration at an AgiBot event](agibot-demo.png)
+<a href="agibot-demo.png" aria-label="Open the full-resolution AgiBot event photograph"><img src="agibot-demo.png" alt="Robot manipulation demonstration at an AgiBot event" width="1784" height="1191" loading="lazy" decoding="async" style="width:100%;height:auto;"></a>
 
 *Robot manipulation demonstration at an AgiBot event.*
 
