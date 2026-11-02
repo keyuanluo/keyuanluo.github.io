@@ -13,8 +13,8 @@ sections:
 
         My research focuses on **robot learning**, especially **memory evaluation in vision-language-action (VLA) systems** and **long-horizon decision-making**. I also study multimodal policy adaptation. Previously, I worked on pedestrian crossing intention prediction at Technische Universität Berlin.
       button:
-        text: Email
-        url: 'mailto:luokeyuanstu@163.com'
+        text: Download CV
+        url: '/uploads/Keyuan_Luo_Academic_CV.pdf'
       headings:
         about: About Me
         education: Education
