@@ -1,0 +1,8 @@
+<style>
+  /* Give the two public education entries equal width on larger screens. */
+  @media (min-width: 768px) {
+    #about .grid[class~="md:grid-cols-2"][class~="xl:grid-cols-3"] {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+</style>
